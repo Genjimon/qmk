@@ -1,7 +1,7 @@
 export function Name() { return "Keychron Q1 QMK Keyboard"; }
 export function VendorId() { return 0x3434; }
 export function ProductId() { return 0x0109; }
-export function Publisher() { return "Genjimon"; }
+export function Publisher() { return "Patch"; }
 export function Size() { return [21, 6]; }
 export function DefaultPosition(){return [10, 100]; }
 export function DefaultScale(){return 8.0;}
